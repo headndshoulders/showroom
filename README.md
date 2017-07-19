@@ -1,5 +1,10 @@
 # showroom
-Once the designers have created a gorgeous UI, you will need a team that will be able to turn this design into a working mobile application or website which will look and work exactly the way you have approved it at the design stage.
+Once the designers have created a gorgeous UI, you will need a team that will be able to turn this design into a working mobile application or website which will look and work exactly the way you have approved it at the design stage. <br>
+
+## Get the Showroom App for iOS to give it a try
+<a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=gthb-showroom&mt=8"
+<img src="https://github.com/headndshoulders/showroom/raw/master/app_store@2x.png" width="117" height="34"></a>
+
 
 Ramotion has been creating interfaces for many years and now we are ready to turn them into working mobile, web, and VR apps. Recently, our mobile application developers have released a [series of Swift controls](https://github.com/ramotion), which quickly gained popularity among mobile developers on Github and allowed Ramotion to become [the # 1 contributor to Swift projects on the platform](http://github-awards.com/users/search?login=ramotion).
 
@@ -7,20 +12,33 @@ We are very pleased that our work has found an echo among different engineers an
 
 
 [![Animation](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)](https://github.com/Ramotion/animated-tab-bar)
-##RAMAnimatedTabBarController
+## RAMAnimatedTabBarController
 Swift module for adding animation to tabbar items
 <br><br><br><br>
 
 [![Animation](https://raw.githubusercontent.com/Ramotion/expanding-collection/master/preview.gif)](https://github.com/Ramotion/expanding-collection)
-##ExpandingCollection
+
+## ExpandingCollection
 Card peek/pop controller
 <br><br><br><br>
 
 [![Animation](https://raw.githubusercontent.com/Ramotion/navigation-stack/master/Navigation-Stack.gif)](https://github.com/Ramotion/navigation-stack)
-##NavigationStack
+
+## NavigationStack
 Stack-modeled navigation controller
 
 ## Play with our UI controls here
 
-
 <a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=gthb-showroom&mt=8" > <img src="https://github.com/Ramotion/navigation-stack/raw/master/Download_on_the_App_Store_Badge_US-UK_135x40.png" width="170" height="58"></a>
+
+# Get the Showroom App for iOS to give it a try
+Try various UI components in our iOS app. Contact us if interested.
+
+<a href="a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=gthb-showroom&mt=8"</a> 
+<img src="https://github.com/headndshoulders/showroom/raw/master/app_store@2x.png" width="117" height="34"></a>
+<br>
+<br>
+
+Follow us for the latest updates<br>
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/ramotion/foolding-cell-android)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ramotion.svg?style=social)](https://twitter.com/ramotion)
